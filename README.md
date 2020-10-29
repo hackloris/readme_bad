@@ -3,3 +3,5 @@ Hi, this is a public readme readme.
 Maybe we should add stuff
 
 Dang it, forgot this.
+
+WHY I KEEP FOREGETTI
